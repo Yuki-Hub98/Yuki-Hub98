@@ -5,7 +5,7 @@
 <div>
   <a href="https://beacons.ai/Yuki-Hub98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuki-Hub98&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-Hub98&layout=compact&show_icons=true&theme=merko&langs_count=16"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-Hub98&layout=compact&show_icons=true&theme=merko&langs_count=16"/> 
 
 </div>  
 
